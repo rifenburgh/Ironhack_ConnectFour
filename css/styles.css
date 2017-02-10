@@ -51,17 +51,12 @@ section {
   height: 100%;
 }
 
-.checker-player-1 {
-  border-color: #7EFA03;
-  background-color: #7EFA03;
+.player-checker-1 {
+  border-color: white;
+  background-color: red;
 }
 
-.checker-player-1 {
-  border-color: #7EFA03;
-  background-color: #7EFA03;
-}
-
-.checker-player-2 {
-  border-color: #f85487;
-  background-color: #f85487;
+.player-checker-2 {
+  border-color: white;
+  background-color: black;
 }
